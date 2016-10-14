@@ -1,0 +1,71 @@
+﻿/* This is a sample CSS file for the default site created in the CMS. */
+*
+{
+    font-family: Georgia;
+    color: #262626;
+    background-color: #fefefe;
+}
+body
+{
+    width: 850px;
+    margin: auto;
+}
+h1, h2
+{
+    color: #949c20;
+}
+h1
+{
+    font-family: Garamond;
+    text-transform: lowercase;
+    text-align: right;
+}
+h2, .signature
+{
+    font-family: Garamond;
+    font-size: 190%;
+}
+h1 span
+{
+    font-weight: normal;
+    font-size: 170%;
+    margin-left: -7px;
+}
+a
+{
+    color: #949c20;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.signatureIntro
+{
+    text-align: right;
+}
+.signature
+{
+    text-align: right;
+    margin-top: -15px;
+    font-style: italic;
+}
+#image
+{
+    margin-top: 20px;
+    text-align: center;
+}
+#image img
+{
+    -moz-box-shadow: 15px 15px 15px #ccc;
+    -webkit-box-shadow: 15px 15px 15px #ccc;
+    box-shadow: 15px 15px 15px #ccc;
+}
+#copyright
+{
+    margin-top: 70px;
+    text-align: center;
+    font-style: italic;
+    font-size: 80%;
+    color: #ababab;
+}

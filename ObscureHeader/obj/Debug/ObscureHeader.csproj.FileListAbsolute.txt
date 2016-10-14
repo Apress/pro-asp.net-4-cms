@@ -1,0 +1,5 @@
+C:\SVN\cms_2010\trunk\ContentManagement\ObscureHeader\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\cms_2010\trunk\ContentManagement\ObscureHeader\bin\Debug\ObscureHeader.dll
+C:\SVN\cms_2010\trunk\ContentManagement\ObscureHeader\bin\Debug\ObscureHeader.pdb
+C:\SVN\cms_2010\trunk\ContentManagement\ObscureHeader\obj\Debug\ObscureHeader.dll
+C:\SVN\cms_2010\trunk\ContentManagement\ObscureHeader\obj\Debug\ObscureHeader.pdb

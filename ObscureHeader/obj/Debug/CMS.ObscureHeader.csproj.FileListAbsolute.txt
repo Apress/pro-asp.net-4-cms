@@ -1,0 +1,15 @@
+C:\CMS\CMS2010\ObscureHeader\bin\Debug\ObscureHeader.dll
+C:\CMS\CMS2010\ObscureHeader\bin\Debug\ObscureHeader.pdb
+C:\CMS\CMS2010\ObscureHeader\obj\Debug\ResolveAssemblyReference.cache
+C:\CMS\CMS2010\ObscureHeader\obj\Debug\ObscureHeader.dll
+C:\CMS\CMS2010\ObscureHeader\obj\Debug\ObscureHeader.pdb
+C:\CodePlex\CMS\ObscureHeader\bin\Debug\ObscureHeader.dll
+C:\CodePlex\CMS\ObscureHeader\bin\Debug\ObscureHeader.pdb
+C:\CodePlex\CMS\ObscureHeader\obj\Debug\ResolveAssemblyReference.cache
+C:\CodePlex\CMS\ObscureHeader\obj\Debug\ObscureHeader.dll
+C:\CodePlex\CMS\ObscureHeader\obj\Debug\ObscureHeader.pdb
+C:\SVN\Codeplex\ObscureHeader\bin\Debug\ObscureHeader.dll
+C:\SVN\Codeplex\ObscureHeader\bin\Debug\ObscureHeader.pdb
+C:\SVN\Codeplex\ObscureHeader\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\Codeplex\ObscureHeader\obj\Debug\ObscureHeader.dll
+C:\SVN\Codeplex\ObscureHeader\obj\Debug\ObscureHeader.pdb

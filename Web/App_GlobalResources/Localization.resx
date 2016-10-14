@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdminLinkText" xml:space="preserve">
+    <value>System Administration</value>
+  </data>
+  <data name="ContentBucketText" xml:space="preserve">
+    <value>Main Content</value>
+  </data>
+  <data name="ContentLinkText" xml:space="preserve">
+    <value>Content</value>
+  </data>
+  <data name="DescriptionField" xml:space="preserve">
+    <value>Description:</value>
+  </data>
+  <data name="EditContentText" xml:space="preserve">
+    <value>Edit Content</value>
+  </data>
+  <data name="FollowLinksField" xml:space="preserve">
+    <value>Follow Links:</value>
+  </data>
+  <data name="FooterBucketText" xml:space="preserve">
+    <value>Footer</value>
+  </data>
+  <data name="FooterText" xml:space="preserve">
+    <value>This work is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons Attribution 3.0 Unported License&lt;/a&gt;.</value>
+  </data>
+  <data name="HeaderBucketText" xml:space="preserve">
+    <value>Header</value>
+  </data>
+  <data name="HomeLinkText" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="KeywordsField" xml:space="preserve">
+    <value>Keywords:</value>
+  </data>
+  <data name="LoginButtonText" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LoginPanelHeader" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LoginPassword" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="LoginText" xml:space="preserve">
+    <value>Login to the CMS</value>
+  </data>
+  <data name="LoginUsername" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="LogoutLinkText" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="NavigationHeaderText" xml:space="preserve">
+    <value>Navigation</value>
+  </data>
+  <data name="NoContentText" xml:space="preserve">
+    <value>You don't have any content in the tree yet; this page will become the root node for the site.</value>
+  </data>
+  <data name="NonscriptText" xml:space="preserve">
+    <value>JavaScript needs to be enabled for proper functionality of the admin console.</value>
+  </data>
+  <data name="PageAuthorField" xml:space="preserve">
+    <value>Author:</value>
+  </data>
+  <data name="PageEditorEmbeddableIntro" xml:space="preserve">
+    <value>This section allows you to edit the embeddable controls that appear in your page.</value>
+  </data>
+  <data name="PageEditorIntro" xml:space="preserve">
+    <value>These settings are basic attributes that content will have.</value>
+  </data>
+  <data name="PageEditorSEOIntro" xml:space="preserve">
+    <value>The following settings related to how search engines see your page; while there is no substitute for clean markup and excellent content, the information here can help search engines better identify your quality content among similar pages users might be searching for.</value>
+  </data>
+  <data name="PageEditorText" xml:space="preserve">
+    <value>Page Editor</value>
+  </data>
+  <data name="PageTitleField" xml:space="preserve">
+    <value>Title:</value>
+  </data>
+  <data name="PageURLField" xml:space="preserve">
+    <value>URL:</value>
+  </data>
+  <data name="PopupCancelText" xml:space="preserve">
+    <value>[X]</value>
+  </data>
+  <data name="PopupSaveText" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="PrimaryNavBucketText" xml:space="preserve">
+    <value>Primary Navigation</value>
+  </data>
+  <data name="PublishPageText" xml:space="preserve">
+    <value>Publish to Live Site</value>
+  </data>
+  <data name="SaveRevisionText" xml:space="preserve">
+    <value>Save Revision</value>
+  </data>
+  <data name="SEOText" xml:space="preserve">
+    <value>Search Engine Optimization</value>
+  </data>
+  <data name="SubNavBucketText" xml:space="preserve">
+    <value>Sub-level Navigation</value>
+  </data>
+  <data name="TreeContentText" xml:space="preserve">
+    <value>You can select the parent node for this page using the tree below.</value>
+  </data>
+  <data name="VersionControlIntro" xml:space="preserve">
+    <value>Each time you save your content, the CMS takes a "snapshot" of the content, allowing you to roll back to a previous version at any time. There is no limit to how many content snapshots you can have at one time.</value>
+  </data>
+  <data name="VersionControlText" xml:space="preserve">
+    <value>Version Control and Publication</value>
+  </data>
+  <data name="ViewSiteLinkText" xml:space="preserve">
+    <value>View Site</value>
+  </data>
+  <data name="VisibleField" xml:space="preserve">
+    <value>Visible:</value>
+  </data>
+  <data name="AdministerLinkText" xml:space="preserve">
+    <value>Administer</value>
+  </data>
+  <data name="AdministerLinkText2" xml:space="preserve">
+    <value>the various sites available in the CMS.</value>
+  </data>
+  <data name="AdministrationText" xml:space="preserve">
+    <value>Administration</value>
+  </data>
+  <data name="CreateNewSiteText" xml:space="preserve">
+    <value>Create a New Site</value>
+  </data>
+  <data name="CreateSiteButtonText" xml:space="preserve">
+    <value>Create Site</value>
+  </data>
+  <data name="CreateSiteIntro" xml:space="preserve">
+    <value>The following information must be provided to create a new site in the CMS.</value>
+  </data>
+  <data name="DomainField" xml:space="preserve">
+    <value>Domain:</value>
+  </data>
+  <data name="EditSiteIntro" xml:space="preserve">
+    <value>You can update information for available sites below. To change which site you are modifying (if more than one is available) use the drop-down box to the top-right of the screen.</value>
+  </data>
+  <data name="EditSiteText" xml:space="preserve">
+    <value>Edit an Existing Site</value>
+  </data>
+  <data name="ManageLinkText" xml:space="preserve">
+    <value>Manage</value>
+  </data>
+  <data name="ManageLinkText2" xml:space="preserve">
+    <value>the users of your system and their roles.</value>
+  </data>
+  <data name="ManageSitesText" xml:space="preserve">
+    <value>Manage Sites</value>
+  </data>
+  <data name="PluginsText" xml:space="preserve">
+    <value>Plugins</value>
+  </data>
+  <data name="SitesText" xml:space="preserve">
+    <value>Sites</value>
+  </data>
+  <data name="SiteTitleField" xml:space="preserve">
+    <value>Site Title:</value>
+  </data>
+  <data name="SysAdminText" xml:space="preserve">
+    <value>System Administration</value>
+  </data>
+  <data name="UpdateSiteButtonText" xml:space="preserve">
+    <value>Update Site</value>
+  </data>
+  <data name="UsersText" xml:space="preserve">
+    <value>Users</value>
+  </data>
+  <data name="ViewPluginsLinkText" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="ViewPluginsLinkText2" xml:space="preserve">
+    <value>the registered plugin modules within the system.&lt;br /&gt;&lt;em&gt;When you add or delete embeddables from the system, going to this page will automatically update the database with what is available in the registered directory.&lt;/em&gt;</value>
+  </data>
+  <data name="ContentManagementText" xml:space="preserve">
+    <value>Content Management</value>
+  </data>
+  <data name="ContentText" xml:space="preserve">
+    <value>Content</value>
+  </data>
+  <data name="CreateContentText" xml:space="preserve">
+    <value>Create new content</value>
+  </data>
+  <data name="CurrentPluginsText" xml:space="preserve">
+    <value>Current Plugins and Modules</value>
+  </data>
+  <data name="ExpandTreeText" xml:space="preserve">
+    <value>Expand the entire tree</value>
+  </data>
+  <data name="NoContentText2" xml:space="preserve">
+    <value>You don't have any content yet. No worries; &lt;a href="/admin/editors/editContent.aspx"&gt;creating some&lt;/a&gt; is easy!</value>
+  </data>
+  <data name="PluginsAndModulesText" xml:space="preserve">
+    <value>Plugins and Modules</value>
+  </data>
+  <data name="PluginsIntroText" xml:space="preserve">
+    <value>The following plugins are available to the CMS:</value>
+  </data>
+  <data name="RepositoryIntroText" xml:space="preserve">
+    <value>The following directories are current designated as plugin repositories:</value>
+  </data>
+  <data name="TreeContentsText" xml:space="preserve">
+    <value>The tree below represents the content you currently have on your site at this time.</value>
+  </data>
+  <data name="HomeText" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="NewsAndAlertsText" xml:space="preserve">
+    <value>News and Alerts</value>
+  </data>
+  <data name="PostButtonText" xml:space="preserve">
+    <value>Post</value>
+  </data>
+  <data name="PostNewsIntroText" xml:space="preserve">
+    <value>As a system administrator, you can insert a news entry that will appear on this page for all users of the CMS.</value>
+  </data>
+  <data name="PostNewsText" xml:space="preserve">
+    <value>Post a News Entry</value>
+  </data>
+  <data name="AddEmbeddableText" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="EditText" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="OrText" xml:space="preserve">
+    <value>or</value>
+  </data>
+  <data name="RemoveText" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+</root>

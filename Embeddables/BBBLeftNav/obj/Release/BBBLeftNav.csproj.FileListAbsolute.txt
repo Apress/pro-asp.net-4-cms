@@ -1,0 +1,15 @@
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\BBBLeftNav.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\BBBLeftNav.pdb
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\Business.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\CommonLibrary.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\Microsoft.Scripting.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\Data.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\IronPython.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\Microsoft.Dynamic.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\Microsoft.Scripting.Debugging.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\Business.pdb
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\CommonLibrary.pdb
+C:\Source\CMS2010\Embeddables\BBBLeftNav\bin\Release\Data.pdb
+C:\Source\CMS2010\Embeddables\BBBLeftNav\obj\Release\ResolveAssemblyReference.cache
+C:\Source\CMS2010\Embeddables\BBBLeftNav\obj\Release\BBBLeftNav.dll
+C:\Source\CMS2010\Embeddables\BBBLeftNav\obj\Release\BBBLeftNav.pdb

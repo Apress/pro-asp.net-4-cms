@@ -1,0 +1,387 @@
+﻿*
+{
+    font-family: Calibri;
+}
+body, html, form
+{
+    background-color: #ededed;
+    margin: 0;
+    padding: 0;
+}
+#nonScript
+{
+    color: #f00;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: -70px;
+}
+#login input[type="text"], #login input[type="password"]
+{
+    width: 390px;
+}
+#login input[type="submit"]
+{
+    font-size: 100%;
+}
+#nav
+{
+    text-align: right;
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: visible;
+}
+#nav h1
+{
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+#nav h1 span
+{
+    color: #8ed942;
+}
+#nav ul
+{
+    margin: 0 0 4px 0 !important;
+    padding: 0;
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+#nav ul li
+{
+    margin: 0;
+    display: inline;
+    list-style-type: none;
+}
+#nav ul li a
+{
+    font-weight: bold;
+    font-size: .9em;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #e0e0e0;
+}
+#nav ul li a:hover
+{
+    color: #8ed942;
+}
+#nav select
+{
+    margin: -15px 19px 19px 0;
+    width: 250px;
+}
+#main
+{
+    background-color: #ededed;
+    position: relative;
+    top: 93px;
+    padding-top: 20px;
+}
+#main h2
+{
+    font-style: italic;
+    margin: 10px 28px 0 28px;
+    color: #000;
+    letter-spacing: -2px;
+    border-bottom: 1px dotted #000;
+}
+#main #subcontainer
+{
+    margin: 0 28px 0 28px;
+}
+#main #sideNav
+{
+    float: left;
+    width: 200px;
+    background-color: #fff;
+}
+#main .collapseWrapper, #main #login
+{
+    margin-top: 10px;
+    margin-left: 209px; 
+    background-color: #fff;
+    min-width: 700px;
+}
+#main #login
+{
+    width: 500px;
+    margin: 10px auto;
+    min-width: 500px;
+    -moz-box-shadow: 15px 15px 15px #ccc;
+    -webkit-box-shadow: 15px 15px 15px #ccc;
+    box-shadow: 15px 15px 15px #ccc;
+}
+#main #login .collapse
+{
+    padding: 10px;
+}
+#main h3
+{
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0 4px 0 10px;
+    font-size: 1.2em;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-radius-topleft: 5px;
+    -webkit-border-radius-topright: 5px;
+    border-radius-topleft: 5px;
+    border-radius-topright: 5px;
+}
+#main .collapseWrapper h3
+{
+    cursor: pointer !important;
+}
+#sideNav ul
+{
+    margin: 5px 0 5px 0;
+    padding: 0;
+}
+#sideNav ul li
+{
+    list-style-type: none;
+    margin: 0 5px 0 5px;
+}
+#sideNav ul li a
+{
+    font-size: .8em;
+    text-decoration: none;
+    color: #717171;
+    display: block;
+    padding: 5px 0 5px 5px;
+    border-bottom: 1px dotted #ddd;
+}
+#sideNav ul li a:hover
+{
+    color: #000;
+}
+.collapse
+{
+    border: 1px solid #000;
+    margin: 0;
+    padding: 0 11px 11px 11px;
+    -moz-box-shadow: 5px 5px 5px #ccc;
+    -webkit-box-shadow: 5px 5px 5px #ccc;
+    box-shadow: 5px 5px 5px #ccc;
+}
+.collapse p
+{
+    font-size: .9em;
+    margin-bottom: 5px;
+    width: 100%;
+}
+#primary .collapse li
+{
+    font-size: .9em;
+    width: 100%;
+    list-style-type: square;
+    font-style: italic;
+}
+#sideNav .collapse
+{
+    padding: 0 !important;
+}
+.collapse h4
+{
+    color: #333;
+    margin-bottom: 10px;
+    border-bottom: 1px dotted #ddd;
+    margin-right: 10px;
+}
+.collapse h4 span
+{
+    font-size: 95%;
+    font-family: Georgia;
+    font-style: italic;
+    color: #70879b;
+    font-weight: normal;
+}
+.collapse .newsEntry
+{
+    font-family: Verdana;
+    font-size: .7em;
+    margin: 3px 10px 15px 0;
+}
+#footer
+{
+    margin-top: 100px;
+    font-size: 70%;
+    padding: 10px;
+    text-align: center;
+    color: #70879b;
+}
+#cke_editor1
+{
+    margin: auto;
+    padding: 0;
+    width: 100%;
+    height: 245px !important;
+}
+.adminNewsEntryBox
+{
+    width: 99%;
+    display: block;
+}
+.adminRemoveNewsLink
+{
+    color: #8a879b;
+    font-size: 80%;
+    font-style: italic;
+    display: block;
+    width: 50px;
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+.adminRemoveNewsLink:hover
+{
+    color: #000;
+}
+.siteTree
+{
+    margin-top: 5px;
+}
+.siteTree a, .collapse a
+{
+    color: #717171;
+}
+.siteTree a:hover, .collapse a:hover
+{
+    color: #000;
+}
+.tableForm, .ulForm
+{
+    border: 1px solid #bbb;
+    background-color: #ddd;
+    width: 100%;
+    padding: 10px 25px 10px 10px;
+    margin-bottom: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-radius-topleft: 5px;
+    -webkit-border-radius-topright: 5px;
+    border-radius-topleft: 5px;
+    border-radius-topright: 5px;
+}
+.tableForm select, .ulForm select
+{
+    width: 400px;
+}
+.tableForm td:first-child
+{
+    width: 80px;
+}
+.tableForm td
+{
+    font-size: .8em;
+}
+.tableForm td input, .tableForm td textarea
+{
+    margin: 0;
+    width: 100%;
+    float: left !important;
+}
+.tableForm td input[type="checkbox"]
+{
+    width: auto !important;
+}
+.ulForm
+{
+    width: auto !important;
+}
+.ulForm li
+{
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style-type: none;
+    font-size: .8em;
+}
+.pnlEmbeddable
+{
+    border: 1px solid #bbb;
+    background-color: #ccc;
+    padding: 10px;
+    margin: 5px -10px 5px 0;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-radius-topleft: 5px;
+    -webkit-border-radius-topright: 5px;
+    border-radius-topleft: 5px;
+    border-radius-topright: 5px;
+}
+.pnlEmbeddable select
+{
+    font-style: italic;
+    width: 400px;
+}
+.pnlEmbeddable table
+{
+    width: 98%;
+}
+tr.embeddableRow td:first-child
+{
+    width: 25%;
+    text-align: left;
+}
+tr.embeddableRow td
+{
+    border-bottom: 1px dotted #aaa;
+    text-align: right;
+}
+.embeddableRow span
+{
+    font-style: italic;
+    padding: 0 7px 0 7px;
+}
+#mask
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    background-color: #000;
+    display: none;
+    height: 100% !important;
+}
+#dialog
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    width: 575px;
+    height: 303px;
+    padding: 10px;
+    background-color: #fff;
+    z-index: 101;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#dialog p
+{
+    text-align: right;
+    margin: 0 !important;
+    font-size: .9em;
+    color: #999;
+}
+#dialog a
+{
+    color: #252525;
+    text-decoration: none;
+}
+#dialog iframe
+{
+    border: 0px solid #fff;
+    width: 570px;
+    height: 280px;
+}

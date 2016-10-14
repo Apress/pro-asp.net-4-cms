@@ -1,0 +1,15 @@
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\GlobalModule.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\GlobalModule.pdb
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\Business.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\CommonLibrary.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\Microsoft.Scripting.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\Data.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\IronPython.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\Microsoft.Dynamic.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\Microsoft.Scripting.Debugging.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\Business.pdb
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\CommonLibrary.pdb
+C:\Source\CMS2010\GlobalModule\GlobalModule\bin\Debug\Data.pdb
+C:\Source\CMS2010\GlobalModule\GlobalModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\CMS2010\GlobalModule\GlobalModule\obj\Debug\GlobalModule.dll
+C:\Source\CMS2010\GlobalModule\GlobalModule\obj\Debug\GlobalModule.pdb

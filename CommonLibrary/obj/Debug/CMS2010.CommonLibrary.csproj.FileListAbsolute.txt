@@ -1,0 +1,5 @@
+C:\CMS\CMS2010\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\CMS\CMS2010\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\CMS\CMS2010\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\CMS\CMS2010\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\CMS\CMS2010\CommonLibrary\obj\Debug\CommonLibrary.pdb

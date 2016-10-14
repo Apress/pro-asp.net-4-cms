@@ -1,0 +1,5 @@
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\bin\Release\CommonLibrary.dll
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\bin\Release\CommonLibrary.pdb
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\obj\Release\CommonLibrary.dll
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\obj\Release\CommonLibrary.pdb

@@ -1,0 +1,7 @@
+C:\SVN\Codeplex\Header\bin\Debug\Header.dll
+C:\SVN\Codeplex\Header\bin\Debug\Header.pdb
+C:\SVN\Codeplex\Header\bin\Debug\CommonLibrary.dll
+C:\SVN\Codeplex\Header\bin\Debug\CommonLibrary.pdb
+C:\SVN\Codeplex\Header\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\Codeplex\Header\obj\Debug\Header.dll
+C:\SVN\Codeplex\Header\obj\Debug\Header.pdb

@@ -1,0 +1,7 @@
+C:\SVN\Codeplex\Footer\bin\Debug\Footer.dll
+C:\SVN\Codeplex\Footer\bin\Debug\Footer.pdb
+C:\SVN\Codeplex\Footer\bin\Debug\CommonLibrary.dll
+C:\SVN\Codeplex\Footer\bin\Debug\CommonLibrary.pdb
+C:\SVN\Codeplex\Footer\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\Codeplex\Footer\obj\Debug\Footer.dll
+C:\SVN\Codeplex\Footer\obj\Debug\Footer.pdb

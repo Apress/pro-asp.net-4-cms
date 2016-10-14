@@ -1,0 +1,7 @@
+C:\Source\CMS2010\Embeddables\PrimarySearch\bin\Release\PrimarySearch.dll
+C:\Source\CMS2010\Embeddables\PrimarySearch\bin\Release\PrimarySearch.pdb
+C:\Source\CMS2010\Embeddables\PrimarySearch\bin\Release\CommonLibrary.dll
+C:\Source\CMS2010\Embeddables\PrimarySearch\bin\Release\CommonLibrary.pdb
+C:\Source\CMS2010\Embeddables\PrimarySearch\obj\Release\ResolveAssemblyReference.cache
+C:\Source\CMS2010\Embeddables\PrimarySearch\obj\Release\PrimarySearch.dll
+C:\Source\CMS2010\Embeddables\PrimarySearch\obj\Release\PrimarySearch.pdb

@@ -1,0 +1,1 @@
+C:\Work\cms_2010\trunk\ContentManagement\Business\obj\Release\ResolveAssemblyReference.cache

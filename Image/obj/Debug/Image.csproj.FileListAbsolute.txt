@@ -1,0 +1,7 @@
+C:\SVN\Codeplex\Image\bin\Debug\Image.dll
+C:\SVN\Codeplex\Image\bin\Debug\Image.pdb
+C:\SVN\Codeplex\Image\bin\Debug\CommonLibrary.dll
+C:\SVN\Codeplex\Image\bin\Debug\CommonLibrary.pdb
+C:\SVN\Codeplex\Image\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\Codeplex\Image\obj\Debug\Image.dll
+C:\SVN\Codeplex\Image\obj\Debug\Image.pdb

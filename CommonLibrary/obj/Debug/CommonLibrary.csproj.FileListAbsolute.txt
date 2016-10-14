@@ -1,0 +1,15 @@
+c:\work\ContentManagement\CommonLibrary\bin\Debug\CommonLibrary.dll
+c:\work\ContentManagement\CommonLibrary\bin\Debug\CommonLibrary.pdb
+c:\work\ContentManagement\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\work\ContentManagement\CommonLibrary\obj\Debug\CommonLibrary.dll
+c:\work\ContentManagement\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Work\cms_2010\trunk\ContentManagement\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Source\CMS2010\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Source\CMS2010\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Source\CMS2010\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\CMS2010\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Source\CMS2010\CommonLibrary\obj\Debug\CommonLibrary.pdb

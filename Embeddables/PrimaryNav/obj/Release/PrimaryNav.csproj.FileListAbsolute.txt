@@ -1,0 +1,7 @@
+C:\Source\CMS2010\Embeddables\PrimaryNav\bin\Release\PrimaryNav.dll
+C:\Source\CMS2010\Embeddables\PrimaryNav\bin\Release\PrimaryNav.pdb
+C:\Source\CMS2010\Embeddables\PrimaryNav\bin\Release\CommonLibrary.dll
+C:\Source\CMS2010\Embeddables\PrimaryNav\bin\Release\CommonLibrary.pdb
+C:\Source\CMS2010\Embeddables\PrimaryNav\obj\Release\ResolveAssemblyReference.cache
+C:\Source\CMS2010\Embeddables\PrimaryNav\obj\Release\PrimaryNav.dll
+C:\Source\CMS2010\Embeddables\PrimaryNav\obj\Release\PrimaryNav.pdb

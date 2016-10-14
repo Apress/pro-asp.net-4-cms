@@ -1,0 +1,15 @@
+C:\CMS\CMS2010\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\CMS\CMS2010\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\CMS\CMS2010\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\CMS\CMS2010\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\CMS\CMS2010\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\CodePlex\CMS\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\CodePlex\CMS\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\CodePlex\CMS\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\CodePlex\CMS\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\CodePlex\CMS\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\SVN\Codeplex\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\SVN\Codeplex\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\SVN\Codeplex\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\Codeplex\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\SVN\Codeplex\CommonLibrary\obj\Debug\CommonLibrary.pdb

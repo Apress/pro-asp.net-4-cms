@@ -1,0 +1,4 @@
+﻿#main .collapseWrapper
+{
+    overflow: hidden; /* Necessary in IE to keep the margins from disappearing on first collapse. */
+}

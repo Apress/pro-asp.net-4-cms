@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="ContentVersionRow.ascx.cs" Inherits="admin_masters_controls_ContentVersionRow" %>
+<asp:PlaceHolder ID="plcRevisionLinks" runat="server"></asp:PlaceHolder>

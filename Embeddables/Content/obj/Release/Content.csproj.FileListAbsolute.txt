@@ -1,0 +1,7 @@
+C:\Source\CMS2010\Embeddables\Content\bin\Release\Content.dll
+C:\Source\CMS2010\Embeddables\Content\bin\Release\Content.pdb
+C:\Source\CMS2010\Embeddables\Content\bin\Release\CommonLibrary.dll
+C:\Source\CMS2010\Embeddables\Content\bin\Release\CommonLibrary.pdb
+C:\Source\CMS2010\Embeddables\Content\obj\Release\ResolveAssemblyReference.cache
+C:\Source\CMS2010\Embeddables\Content\obj\Release\Content.dll
+C:\Source\CMS2010\Embeddables\Content\obj\Release\Content.pdb
